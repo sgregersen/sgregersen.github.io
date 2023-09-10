@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-description: Postdoc in Frisian linguistic, Kiel University. 
+description: > 
+Postdoc in Frisian linguistic, Kiel University. 
 
 profile:
   align: right
