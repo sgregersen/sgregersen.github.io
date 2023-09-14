@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: A grammar of Wangerooge Frisian
+description: Description of an extinct Germanic language on the basis of 19th- and 20th-century sources
+img: assets/img/project_wang.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications:
 ---
 
 Every project has a beautiful feature showcase page.

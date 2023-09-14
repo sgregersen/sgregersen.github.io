@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Four types of causality
+description: MA thesis on the syntax and semantics of causal clauses in Modern Danish
 img: assets/img/1.jpg
-importance: 3
-category: fun
+importance: 5
+category: work
+related_publications: gregersen2019fordi
 ---
 
 Every project has a beautiful feature showcase page.

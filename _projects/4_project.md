@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Early English modals
+description: My PhD dissertation on the development of modals in the history of English
 img:
-importance: 3
-category: fun
+importance: 4
+related_publications: gregersen2016will, gregersen2017oedare, gregersen2017larks, caers&gregersen2019modals, gregersen2021maatte, gregersen2020dissertation, gregersen2022sof, gregersen2023regmod
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Habituals in the world's languages
+description: Collaborative project on the forms and functions of habitual markers
+img: assets/img/project_hab.jpg
 importance: 2
 category: work
-giscus_comments: true
+related_publications: gregersen&al2021habituals
 ---
 
 Every project has a beautiful feature showcase page.

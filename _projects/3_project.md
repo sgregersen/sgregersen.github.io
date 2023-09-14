@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Danish in the 19th century
+description: Ongoing work on change and variation in 19th-century Danish
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
+related_publications: gregersen2023passive, gregersen2023proksimativ
 category: work
 ---
 
