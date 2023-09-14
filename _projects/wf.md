@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A grammar of Wangerooge Frisian
-description: Linguistic description of an extinct language of northern Germany
+description: A linguistic description of an extinct language of northern Germany
 img: assets/img/project_wf.jpg
 importance: 1
 category: work

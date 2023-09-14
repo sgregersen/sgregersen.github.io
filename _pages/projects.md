@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: 
+description: An overview of research projects that I am currently working on or have worked on in the past. Click the links for descriptions and references.
 nav: true
 nav_order: 1
 display_categories: #[work, fun]
