@@ -8,7 +8,7 @@ middle_name:
 last_name: Gregersen
 email: s.gregersen@isfas.uni-kiel.de
 description: # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoc in Frisian linguistics, Kiel University
+  # Postdoc in Frisian linguistics, Kiel University
 footer_text: Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords:  # add your own keywords or leave empty
 
@@ -49,7 +49,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -264,8 +264,9 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
-  group_order: descending
+  group_by: type
+  type_order: [article,thesis,incollection]
+  # group_order: descending
 
 badges: # Display different badges for your publications
   altmetric_badge: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Early English modals
-description: My PhD dissertation on the development of modals in the history of English
-img:
+description: PhD dissertation on the historical development of the English modals
+img: assets/img/project_phd
 importance: 4
 related_publications: gregersen2016will, gregersen2017oedare, gregersen2017larks, caers&gregersen2019modals, gregersen2021maatte, gregersen2020dissertation, gregersen2022sof, gregersen2023regmod
 category: work
