@@ -96,8 +96,10 @@
               {% endfor -%}
               {%- if site.enable_darkmode %}
 
-              <!-- CV link -->
-              <a class="page-link" href="{{ '/assets/pdf/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a> 
+              <!-- CV -->
+              <li class="nav-item {% if page.title == 'CV' %}active{% endif %}">
+              <a class="nav-link" target="_blank" href="{{ '/assets/pdf/example_pdf.pdf' | relative_url }}">CV</a>
+                </li>
 
               <!-- Toogle theme mode -->
               <li class="toggle-container">
