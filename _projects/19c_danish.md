@@ -2,10 +2,9 @@
 layout: page
 title: Danish in the 19th century
 description: Ongoing work on grammatical change and variation in 19th-century Danish
-img: assets/img/project_19th
+img: assets/img/ancher.jpg
 importance: 3
-related_publications: gregersen2023passive, gregersen2023proksimativ
-category: work
+related_publications: gregersen2023passive, gregersen2021proksimativ
 ---
 
 Every project has a beautiful feature showcase page.

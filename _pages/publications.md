@@ -12,7 +12,7 @@ nav_order: 2
 <div class="publications">
 
 <h3>Journal articles</h3>
-{% bibliography -f papers %}
+{% bibliography -f journal_articles %}
 
 
 
@@ -27,7 +27,7 @@ nav_order: 2
 
 
 <h3>Working papers</h3>
-{% bibliography -f working %}
+{% bibliography -f working_papers %}
 
 
 

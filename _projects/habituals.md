@@ -2,9 +2,8 @@
 layout: page
 title: Habituals in the world’s languages
 description: Collaborative project on the forms and functions of habitual markers
-img: assets/img/project_hab.jpg
+img: assets/img/modrekili_ms.jpeg
 importance: 2
-category: work
 related_publications: gregersen&al2021habituals
 ---
 
