@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Habituals in the world's languages
+title: Habituals in the world’s languages
 description: Collaborative project on the forms and functions of habitual markers
 img: assets/img/project_hab.jpg
 importance: 2

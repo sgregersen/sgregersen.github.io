@@ -5,7 +5,7 @@ description: MA thesis on the syntax and semantics of causal clauses in Modern D
 img: assets/img/project_caus
 importance: 5
 category: work
-related_publications: gregersen2019fordi
+related_publications: gregersen2019fordi, gregersen2014speciale
 ---
 
 Every project has a beautiful feature showcase page.
