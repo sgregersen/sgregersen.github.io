@@ -79,3 +79,9 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+
+
+
+2020–2024
+
+https://dsn.dk/sprogets-udvikling/grammatik-i-1800-tallet/ (in Danish)
