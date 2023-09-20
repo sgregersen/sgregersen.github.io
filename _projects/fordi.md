@@ -11,12 +11,12 @@ My master’s thesis (University of Copenhagen, 2014) was a study of the form an
 
 
 <br>
-<h2>Related talks</h2>
+<h2>Related presentations</h2>
 <table>
 <colgroup>
 <col width="50%" />
-<col width="25%" />
-<col width="15%" />
+<col width="30%" />
+<col width="10%" />
 <col width="10%" />
 </colgroup>
 <thead>
@@ -31,7 +31,7 @@ My master’s thesis (University of Copenhagen, 2014) was a study of the form an
 <tr>
 <td markdown="span">Refusing to subordinate? The syntax of Danish causal clauses</td>
 <td markdown="span">Young Linguists’ International Conference, Stockholm</td>
-<td markdown="span">28/06 2014</td>
+<td markdown="span">28/06/14</td>
 <td markdown="span">[poster](/assets/pdf/pres/Stockholm_fordi.pdf)</td>
 </tr>
 </tbody>

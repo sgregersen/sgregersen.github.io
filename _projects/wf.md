@@ -86,3 +86,89 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+
+
+
+<br>
+<h2>Related presentations</h2>
+<table>
+<colgroup>
+<col width="50%" />
+<col width="30%" />
+<col width="10%" />
+<col width="10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Title</th>
+<th>Event</th>
+<th>Date</th>
+<th>Downloads</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">From complementizer to causal subordinator: The functions of _dat_ ‘that, so, because’ in Wangerooge Frisian. Societas Linguistica Europaea (SLE 2023)
+</td>
+<td markdown="span">[SLE 56](https://societaslinguistica.eu/sle2023/), University of Athens</td>
+<td markdown="span">29/08/23</td>
+<td markdown="span">[slides](/assets/pdf/pres/SLE56_dat.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Om (øst)frisisk i 1800-tallet [On (East) Frisian in the 19th century]</td>
+<td markdown="span">_Grammatik i 1800-tallet_, Danish Language Council</td>
+<td markdown="span">14/08/23</td>
+<td markdown="span">[slides](/assets/pdf/pres/DSN_WF.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">A “lost” language of Northern Germany: An introduction to Wangerooge Frisian</td>
+<td markdown="span">_Sprachwissenschaftliches Kolloquium_, Kiel University</td>
+<td markdown="span">20/06/23</td>
+<td markdown="span">[slides](/assets/pdf/pres/SprKoll_WF.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">A “lost” language of Northern Germany: A crash course in Wangerooge Frisian</td>
+<td markdown="span">StuTS 73, University of Frankfurt</td>
+<td markdown="span">28/05/23</td>
+<td markdown="span">[slides](/assets/pdf/pres/StuTS73_crash_course.pdf)<br>[handout](/assets/pdf/pres/StuTS73_exercises.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Reconstructing the definite determiner system of Wangerooge Frisian</td>
+<td markdown="span">_Methodological Challenges in Historical Sociolinguistics_, University of Amsterdam</td>
+<td markdown="span">23/05/23</td>
+<td markdown="span">[slides](/assets/pdf/pres/HiSoc_definiteness.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">An invitation to Wangerooge Frisian</td>
+<td markdown="span">Lexical Restrictions research group, University of Amsterdam</td>
+<td markdown="span">21/04/23</td>
+<td markdown="span">[slides](/assets/pdf/pres/LexRestr_WF.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Sociolinguistic perspectives on Wangerooge Frisian</td>
+<td markdown="span">Historical Sociolinguistics research group, University of Amsterdam</td>
+<td markdown="span">30/03/23</td>
+<td markdown="span">[slides](/assets/pdf/pres/HiSoc_perspectives.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">The word order of complement clauses in Wangerooge Frisian</td>
+<td markdown="span">StuTS 72, University of Hamburg</td>
+<td markdown="span">04/11/22</td>
+<td markdown="span">[slides](/assets/pdf/pres/StuTS72_dat.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Komplementsætninger i wangeroogefrisisk [Complement clauses in Wangerooge Frisian]</td>
+<td markdown="span">_Grammatiknetværket_, Odense</td>
+<td markdown="span">27/10/22</td>
+<td markdown="span">[slides](/assets/pdf/pres/NFG_dat.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">‘Inside (house)’ vs. ‘inside (non-house)’: A semantic shift in Wangerooge Frisian</td>
+<td markdown="span">_Semantic Shifts_, Fréjus</td>
+<td markdown="span">19/09/22</td>
+<td markdown="span">[slides](/assets/pdf/pres/SemanticShifts_non-house.pdf)</td>
+</tr>
+</tbody>
+</table>
+<br>
+

@@ -77,7 +77,12 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 <h3>Talks on English linguistics</h3>
 
-
+<tr>
+<td markdown="span">Investigating variation in late medieval English</td>
+<td markdown="span">_Languages in Europe and their Diachronies_, University of Athens</td>
+<td markdown="span">03/03/21</td>
+<td markdown="span">[slides](/assets/pdf/pres/CIVIS_variation.pdf)</td>
+</tr>
 
 <h3>Talks on Danish</h3>
 
