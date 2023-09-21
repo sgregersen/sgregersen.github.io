@@ -90,7 +90,7 @@ Here's the code for the last row of images above:
 
 
 <br>
-<h2>Related presentations</h2>
+<h2>Presentations</h2>
 <table>
 <colgroup>
 <col width="50%" />

@@ -3,21 +3,18 @@ layout: page
 title: Danish in the 19th century
 description: Ongoing work on grammatical change and variation in 19th-century Danish
 img: assets/img/ancher.jpg
-importance: 3
+importance: 4
 related_publications: gregersen2023passive, gregersen2021proksimativ, gregersen2020review-ds3
 ---
 
+In 2020–2021 I worked as a research assistant at the Department of Nordic Studies and Linguistics ([NorS](https://nors.ku.dk/)) at the University of Copenhagen. Having access to a number of unique resources, such as the collection of the former Department of Danish Dialectology, inspired me to a number of investigations of earlier Danish, in particular variation and change in the 19th century. Since 2021 I have also been an external member of the research group _[Grammatik i 1800-tallet](https://dsn.dk/sprogets-udvikling/grammatik-i-1800-tallet/)_ [Grammar in the 19th century] at the Danish Language Council.
 
+The 19th century is an exciting period in the history of Danish. The number and quality of our linguistic sources increase dramatically in this period, which also saw the establishment of linguistics as an independent academic discipline. At the same time a number of societal changes – such as increased urbanization and the introduction of compulsory schooling in [1814](https://danmarkshistorien.dk/vis/materiale/skole-og-undervisning-1814-2014) – led to a process of standardization and dialect levelling which progressed even further in the 20th century. <!-- (Modern Danish has been described as the most heavily standardized European language.)--->
 
-
-2020–2024
-
-https://dsn.dk/sprogets-udvikling/grammatik-i-1800-tallet/ (in Danish)
-
-
+In my research on 19th-century Danish I have been particularly interested in what the sources can tell us about sociolinguistic and dialectal variation. Among other things I have investigated a now obsolete [proximative](/assets/pdf/DT_proksimativ.pdf) construction (e.g. _færdig at græde_ ‘about to cry’) and the sociolinguistic variation between two [passives](https://doi.org/10.1515/opli-2022-0196), the so-called _s_-passive and _blive_-passive.
 
 <br>
-<h2>Related presentations</h2>
+<h2>Presentations</h2>
 <table>
 <colgroup>
 <col width="50%" />
