@@ -13,9 +13,9 @@ Wangerooge Frisian is a now extinct Frisian language once spoken on [Wangerooge]
 <div class="container">
   <div class="row">
     <div class="col"> </div>
-    <div class="col-4">
-    {% include figure.html path="assets/img/prof_pic.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">View of Wangerooge</div>  
+    <div class="col-8">
+    {% include figure.html path="assets/img/wangerooge_nolte.jpeg" title="View of Wangerooge" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">View of Wangerooge. Photo: Martina Nolte, 2012 (CC BY-SA 3.0 DE)</div>
     </div>
     <div class="col"></div>
   </div>
@@ -30,7 +30,7 @@ The main reason that we can study Wangerooge Frisian today is the work of [H. G.
   <div class="row">
     <div class="col"> </div>
     <div class="col-4">
-    {% include figure.html path="assets/img/prof_pic.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/ehrentraut.png" title="H. G. Ehrentraut (1798–1866)" class="img-fluid rounded z-depth-1" %}
         <div class="caption">H. G. Ehrentraut (1798–1866)</div>  
     </div>
     <div class="col"></div>
@@ -42,15 +42,15 @@ The middle of the 19th century also marked the beginning of the end of Wangeroog
 <div class="container">
   <div class="row">
     <div class="col"> </div>
-    <div class="col-4">
-    {% include figure.html path="assets/img/prof_pic.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">Work on Wangerooge Frisian, 1927</div>  
+    <div class="col-8">
+    {% include figure.html path="assets/img/varel.png" title="Linguistic fieldwork on Wangerooge Frisian (Varel, 1926)" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">Linguistic fieldwork on Wangerooge Frisian (Varel, 1926)</div>
     </div>
     <div class="col"></div>
   </div>
 </div>
 
-In my project, I describe the grammatical structure of Wangerooge Frisian using the material collected by Ehrentraut, Siebs, and other people who took an interest in the language. A short project description can also be found on the website of the [Carlsberg Foundation](https://www.carlsbergfondet.dk/da/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF21_0502_Sune-Gregersen). A preliminary syntactic sketch of Wangerooge Frisian is available [here](). This is still very much work in progress, so feel free to send me an [email](mailto:s.gregersen@isfas.uni-kiel.de) if you have any comments or suggestions.
+In my project, I describe the grammatical structure of Wangerooge Frisian using the material collected by Ehrentraut, Siebs, and other people who took an interest in the language. A short project description can also be found on the website of the [Carlsberg Foundation](https://www.carlsbergfondet.dk/da/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF21_0502_Sune-Gregersen). A preliminary syntactic sketch of Wangerooge Frisian is available [here](https://doi.org/10.5281/zenodo.7775493). This is still very much work in progress, so feel free to send me an [email](mailto:s.gregersen@isfas.uni-kiel.de) if you have any comments or suggestions.
 
 
 
