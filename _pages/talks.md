@@ -29,8 +29,8 @@ Below is an overview of my conference presentations and guest lectures, organise
 </thead>
 <tbody>
 <tr>
-<td markdown="span">From complementizer to causal subordinator: The functions of _dat_ ‘that, so, because’ in Wangerooge Frisian. Societas Linguistica Europaea (SLE 2023)</td>
-<td markdown="span">[SLE 56](https://societaslinguistica.eu/sle2023/), University of Athens</td>
+<td markdown="span">From complementizer to causal subordinator: The functions of _dat_ ‘that, so, because’ in Wangerooge Frisian</td>
+<td markdown="span">SLE 56, University of Athens</td>
 <td markdown="span">29/08/23</td>
 <td markdown="span">[slides](/assets/pdf/pres/SLE56_dat.pdf)</td>
 </tr>

@@ -11,7 +11,7 @@ My master’s thesis (University of Copenhagen, 2014) was a study of the form an
 
 The results suggested that _fordi_ ‘because’ clauses in modern Danish differ in a number of ways from how they have traditionally been described, even in a formal register like parliamentary speeches. For instance, they more frequently have verb-second (V2) than verb-third (V3) word order, a feature often described as colloquial, and they were found to introduce interrogative clauses, suggesting that _fordi_ is not always a subordinating conjunction.
 
-[A revised version](https://doi.org/10.7146/nys.v1i57.117119) of my master’s thesis was published in 2019 in _NyS_ [Journal of Modern Danish]. I have later returned to the topic of causal clauses in my work on [Wangerooge Frisian](/_projects/wf.md).
+[A revised version](https://doi.org/10.7146/nys.v1i57.117119) of my master’s thesis was published in 2019 in _NyS_ [Journal of Modern Danish]. I have later returned to the topic of causal clauses in my work on [Wangerooge Frisian](/projects/wf/).
 
 
 
