@@ -22,3 +22,5 @@ I am a descriptive and comparative linguist working as a postdoc at the [Departm
 Before coming to Germany, I studied linguistics at the University of Copenhagen and wrote my dissertation on the development of the [English modals](/projects/modals) at the University of Amsterdam. Among other things, I have also worked on grammatical change in [19th-century Danish](/projects/19c_danish) and [habitual constructions](/projects/habituals) (like English *used to*) in the languages of the world.
 
 On this website you can read about my research and find most of my [papers](/publications) and [presentations](/talks) for download. If you cannot find what you are looking for – or if you have any questions or comments – you are always welcome to send me an [email](mailto:s.gregersen@isfas.uni-kiel.de).
+
+<br>
