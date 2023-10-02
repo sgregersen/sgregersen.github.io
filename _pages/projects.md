@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: An overview of my past and present research projects. Click the links below for descriptions and references.
+description: This page gives an overview of my past and present research projects. Click the links below for descriptions and references.
 nav: true
 nav_order: 1
 display_categories: #[work, fun]

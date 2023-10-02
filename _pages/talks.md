@@ -7,7 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-Below is an overview of my conference presentations and guest lectures, organised according to topic. 
+On this page you can find a list of my conference presentations and guest lectures, organised according to subject language. 
+<br>
 <br>
 
 <h3>Frisian</h3>
@@ -87,61 +88,6 @@ Below is an overview of my conference presentations and guest lectures, organise
 <td markdown="span">_Semantic Shifts_, Fréjus</td>
 <td markdown="span">19/09/22</td>
 <td markdown="span">[slides](/assets/pdf/pres/SemanticShifts_non-house.pdf)</td>
-</tr>
-</tbody>
-</table>
-<br>
-
-
-
-
-<h3>Comparative Germanic</h3>
-
-<table>
-<colgroup>
-<col width="50%" />
-<col width="30%" />
-<col width="10%" />
-<col width="10%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Title</th>
-<th>Event</th>
-<th>Date</th>
-<th>Downloads</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">Historical variation in verbal constructions: Two case studies from West Germanic</td>
-<td markdown="span">ACLC Seminar, University of Amsterdam</td>
-<td markdown="span">15/11/19</td>
-<td markdown="span">[slides](/assets/pdf/pres/ACLC_variation_slides.pdf)<br>[handout](/assets/pdf/pres/ACLC_variation_refs.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">_Wat mutt, dat mutt_: ‘Independent’ modals in West Germanic vernaculars (with Wim Caers)</td>
-<td markdown="span">TABU-dag, University of Groningen</td>
-<td markdown="span">20/06/19</td>
-<td markdown="span">[handout](/assets/pdf/pres/TABU_mutt.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">_Wat mutt, dat mutt_: ‘Independent’ modals in West Germanic vernaculars</td>
-<td markdown="span">Language Description and Typology research group, University of Amsterdam</td>
-<td markdown="span">08/03/19</td>
-<td markdown="span"></td>
-</tr>
-<tr>
-<td markdown="span">Directionals and (de)grammaticalization in the Dutch modals (with Wim Caers, Olga Fischer, and Jan Nuyts)</td>
-<td markdown="span">SLE 51, University of Tallinn</td>
-<td markdown="span">29/08/18</td>
-<td markdown="span"></td>
-</tr>
-<tr>
-<td markdown="span">Germanic ‘courage’ modals: Form, function, and history</td>
-<td markdown="span">Linguistische Werkstatt, University of Bamberg</td>
-<td markdown="span">28/06/17</td>
-<td markdown="span">[slides](/assets/pdf/pres/Bamberg_dare.pdf)</td>
 </tr>
 </tbody>
 </table>
@@ -232,6 +178,61 @@ Below is an overview of my conference presentations and guest lectures, organise
 <td markdown="span">NAP-dag, University of Amsterdam</td>
 <td markdown="span">25/11/16</td>
 <td markdown="span">[slides](/assets/pdf/pres/NAP_dare.pdf)</td>
+</tr>
+</tbody>
+</table>
+<br>
+
+
+
+
+<h3>Comparative Germanic linguistics</h3>
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="30%" />
+<col width="10%" />
+<col width="10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Title</th>
+<th>Event</th>
+<th>Date</th>
+<th>Downloads</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">Historical variation in verbal constructions: Two case studies from West Germanic</td>
+<td markdown="span">ACLC Seminar, University of Amsterdam</td>
+<td markdown="span">15/11/19</td>
+<td markdown="span">[slides](/assets/pdf/pres/ACLC_variation_slides.pdf)<br>[handout](/assets/pdf/pres/ACLC_variation_refs.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">_Wat mutt, dat mutt_: ‘Independent’ modals in West Germanic vernaculars (with Wim Caers)</td>
+<td markdown="span">TABU-dag, University of Groningen</td>
+<td markdown="span">20/06/19</td>
+<td markdown="span">[handout](/assets/pdf/pres/TABU_mutt.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">_Wat mutt, dat mutt_: ‘Independent’ modals in West Germanic vernaculars</td>
+<td markdown="span">Language Description and Typology research group, University of Amsterdam</td>
+<td markdown="span">08/03/19</td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span">Directionals and (de)grammaticalization in the Dutch modals (with Wim Caers, Olga Fischer, and Jan Nuyts)</td>
+<td markdown="span">SLE 51, University of Tallinn</td>
+<td markdown="span">29/08/18</td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span">Germanic ‘courage’ modals: Form, function, and history</td>
+<td markdown="span">Linguistische Werkstatt, University of Bamberg</td>
+<td markdown="span">28/06/17</td>
+<td markdown="span">[slides](/assets/pdf/pres/Bamberg_dare.pdf)</td>
 </tr>
 </tbody>
 </table>

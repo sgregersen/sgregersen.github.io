@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-On this page my papers, book chapters, reviews, and other publications are available for download (click the “PDF” button below the title). For all non-English papers an English abstract is included as well (click the “ABS” button).
+On this page my papers, book reviews, and other publications are available for download. For non-English papers, an English abstract is included as well (click the “ABS” button).
 
 
 <div class="publications">
