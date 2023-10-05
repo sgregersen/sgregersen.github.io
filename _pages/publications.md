@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-On this page you can download my <a href="#articles">journal articles</a>, <a href="#chapters">book chapters</a>, <a href="#theses">theses</a>, <a href="#unpublished">unpublished papers</a>, and <a href="#reviews">book reviews</a>. Click the ABS button to read the abstract and the PDF button to download.
+Here you can download my <a href="#articles">journal articles</a>, <a href="#chapters">book chapters</a>, <a href="#theses">theses</a>, <a href="#unpublished">unpublished papers</a>, and <a href="#reviews">book reviews</a>. Click the ABS button to read the (English) abstract and the PDF button to download.
 
 
 <div class="publications">

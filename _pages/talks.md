@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-On this page you can find a list of my conference presentations and guest lectures, organised according to the main topic of the talk: <a href="#frisian">Frisian</a>, (history of) <a href="#english">English</a>, <a href="#danish">Danish</a>, comparative <a href="#germanic">Germanic</a>, and <a href="#other">other topics</a>.
+On this page you can find a list of my conference presentations and guest lectures, organised according to the main topic of the talk: <a href="#frisian">Frisian</a>, (the history of) <a href="#english">English</a>, <a href="#danish">Danish</a>, <a href="#germanic">comparative Germanic</a>, and <a href="#other">other topics</a>.
 <br>
 <br>
 
@@ -331,7 +331,7 @@ On this page you can find a list of my conference presentations and guest lectur
 
 
 
-<h3 id="id">Other topics</h3>
+<h3 id="other">Other topics</h3>
 
 <table>
 <colgroup>
