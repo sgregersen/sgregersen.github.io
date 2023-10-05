@@ -9,32 +9,32 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-On this page my papers, book reviews, and other publications are available for download. For non-English papers, an English abstract is included as well (click the “ABS” button).
+On this page you can download my <a href="#articles">journal articles</a>, <a href="#chapters">book chapters</a>, <a href="#theses">theses</a>, <a href="#unpublished">unpublished papers</a>, and <a href="#reviews">book reviews</a>. Click the ABS button to read the abstract and the PDF button to download.
 
 
 <div class="publications">
 
-<h3>Journal articles</h3>
-{% bibliography -f journal_articles %}
+<h3 id="articles">Journal articles</h3>
+{% bibliography -f articles %}
 
 
 
-<h3>Book chapters</h3>
+<h3 id="chapters">Book chapters</h3>
 {% bibliography -f chapters %}
 
 
 
-<h3>Theses</h3>
+<h3 id="theses">Theses</h3>
 {% bibliography -f theses %}
 
 
 
-<h3>Working papers</h3>
-{% bibliography -f working_papers %}
+<h3 id="unpublished">Unpublished papers</h3>
+{% bibliography -f unpubl %}
 
 
 
-<h3>Book reviews</h3>
+<h3 id="reviews">Book reviews</h3>
 {% bibliography -f reviews %}
 
 </div>
