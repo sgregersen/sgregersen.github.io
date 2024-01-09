@@ -350,6 +350,12 @@ On this page you can find a list of my conference presentations and guest lectur
 </thead>
 <tbody>
 <tr>
+<td markdown="span">Habitual serial verbs</td>
+<td markdown="span">Serial Predicates Across Modalities research group, University of Amsterdam</td>
+<td markdown="span">14/12/23</td>
+<td markdown="span">[slides](/assets/pdf/pres/habitual_SVCs.pdf)</td>
+</tr>
+<tr>
 <td markdown="span">Forms and functions of habitual markers: A cross-linguistic survey</td>
 <td markdown="span">ACLC Seminar, University of Amsterdam</td>
 <td markdown="span">11/11/22</td>
