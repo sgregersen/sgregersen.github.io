@@ -11,7 +11,7 @@ In 2020–2021 I worked as a research assistant at the Department of Nordic Stud
 
 The 19th century is an exciting period in the history of Danish. The number and quality of our linguistic sources increase dramatically in this period, which also saw the establishment of linguistics as an independent academic discipline. At the same time a number of societal changes – such as increased urbanization and the introduction of compulsory schooling in [1814](https://danmarkshistorien.dk/vis/materiale/skole-og-undervisning-1814-2014) – led to a process of standardization and dialect levelling which progressed even further in the 20th century.
 
-In my research on 19th-century Danish I have been particularly interested in what the sources can tell us about sociolinguistic and dialectal variation. Among other things I have investigated a now obsolete [proximative](/assets/pdf/DT_proksimativ.pdf) construction (e.g. _færdig at græde_ ‘about to cry’) and the sociolinguistic variation between two [passives](https://doi.org/10.1515/opli-2022-0196), the so-called _s_-passive and _blive_-passive.
+In my research on 19th-century Danish I have been particularly interested in what the sources can tell us about sociolinguistic and dialectal variation. Among other things I have investigated a now obsolete [proximative](/assets/pdf/DT_proksimativ.pdf) construction (e.g. _færdig at græde_ ‘about to cry’) and the sociolinguistic variation between two [passive constructions](https://doi.org/10.1515/opli-2022-0196), the so-called _s_-passive and _blive_-passive.
 
 <br>
 <h2>Presentations</h2>
