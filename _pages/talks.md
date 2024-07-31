@@ -205,6 +205,12 @@ On this page you can find a list of my conference presentations and guest lectur
 </thead>
 <tbody>
 <tr>
+<td markdown="span">_That_ as a causal conjunction in West Germanic languages</td>
+<td markdown="span">ELSJ 17th International Spring Forum, Kyoto University</td>
+<td markdown="span">26/05/24</td>
+<td markdown="span">[poster](/assets/pdf/pres/ELSJ_that.pdf)</td>
+</tr>
+<tr>
 <td markdown="span">Historical variation in verbal constructions: Two case studies from West Germanic</td>
 <td markdown="span">ACLC Seminar, University of Amsterdam</td>
 <td markdown="span">15/11/19</td>

@@ -73,6 +73,12 @@ In my project, I describe the grammatical structure of Wangerooge Frisian using 
 </thead>
 <tbody>
 <tr>
+<td markdown="span">_That_ as a causal conjunction in West Germanic languages</td>
+<td markdown="span">ELSJ 17th International Spring Forum, Kyoto University</td>
+<td markdown="span">26/05/24</td>
+<td markdown="span">[poster](/assets/pdf/pres/ELSJ_that.pdf)</td>
+</tr>
+<tr>
 <td markdown="span">From complementizer to causal subordinator: The functions of _dat_ ‘that, so, because’ in Wangerooge Frisian</td>
 <td markdown="span">SLE 56, University of Athens</td>
 <td markdown="span">29/08/23</td>
