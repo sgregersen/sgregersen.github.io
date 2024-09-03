@@ -4,7 +4,7 @@ title: A grammar of Wangerooge Frisian
 description: Postdoc project on an extinct Frisian language of northern Germany
 img: assets/img/project_wf.jpeg
 importance: 1
-related_publications: gregersen2023sketch, gregersen2023v2
+related_publications: gregersen2023sketch, gregersen2023v2, gregersen2024evid, gregersen2024usw
 ---
 
 
@@ -72,6 +72,12 @@ In my project, I describe the grammatical structure of Wangerooge Frisian using 
 </tr>
 </thead>
 <tbody>
+<tr>
+<td markdown="span">An evidential perfect in Wangerooge Frisian (Germanic, Northern Germany)</td>
+<td markdown="span">SLE 57, University of Helsinki</td>
+<td markdown="span">22/08/24</td>
+<td markdown="span">[slides](/assets/pdf/pres/SLE57_evid.pdf)</td>
+</tr>
 <tr>
 <td markdown="span">_That_ as a causal conjunction in West Germanic languages</td>
 <td markdown="span">ELSJ 17th International Spring Forum, Kyoto University</td>

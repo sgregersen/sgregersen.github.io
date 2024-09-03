@@ -30,6 +30,12 @@ On this page you can find a list of my conference presentations and guest lectur
 </thead>
 <tbody>
 <tr>
+<td markdown="span">An evidential perfect in Wangerooge Frisian (Germanic, Northern Germany)</td>
+<td markdown="span">SLE 57, University of Helsinki</td>
+<td markdown="span">22/08/24</td>
+<td markdown="span">[slides](/assets/pdf/pres/SLE57_evid.pdf)</td>
+</tr>
+<tr>
 <td markdown="span">From complementizer to causal subordinator: The functions of _dat_ ‘that, so, because’ in Wangerooge Frisian</td>
 <td markdown="span">SLE 56, University of Athens</td>
 <td markdown="span">29/08/23</td>
@@ -355,6 +361,18 @@ On this page you can find a list of my conference presentations and guest lectur
 </tr>
 </thead>
 <tbody>
+<tr>
+<td markdown="span">A cross-linguistic survey of habitual markers (with Eva van Lier)</td>
+<td markdown="span">SLE 57, University of Helsinki</td>
+<td markdown="span">22/08/24</td>
+<td markdown="span">[slides](/assets/pdf/pres/SLE57_hab.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">A hierarchical approach to habitual expressions (with Hongmei Fang, Egbert Fortuin, Rene Genis, Riccardo Giomi, Kees Hengeveld, Lois Kemp, Paula Kyselica, Ezra La Roi, Hella Olbertz, Eugenie Stapert, Jacques van der Vliet, Hein van der Voort, Sjaak de Wit, Arok Wolvengrey, and Ewa Zakrzewska)</td>
+<td markdown="span">FDG2024, Universidade Federal de São Carlos</td>
+<td markdown="span">05/07/24</td>
+<td markdown="span">[slides](https://keeshengeveld.nl/wp-content/uploads/2024/08/A-hierarchical-approach-to-habitual-expressions-20240807.pdf)</td>
+</tr>
 <tr>
 <td markdown="span">Habitual serial verbs (with Eva van Lier)</td>
 <td markdown="span">Serial Predicates Across Modalities research group, University of Amsterdam</td>
