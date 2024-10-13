@@ -4,7 +4,7 @@ title: A grammar of Wangerooge Frisian
 description: Postdoc project on an extinct Frisian language of northern Germany
 img: assets/img/project_wf.jpeg
 importance: 1
-related_publications: gregersen2023sketch, gregersen2023v2, gregersen2024evid, gregersen2024usw
+related_publications: gregersen2023sketch, gregersen2023v2, gregersen2024evid, gregersen2024usw, gregersen2024def
 ---
 
 

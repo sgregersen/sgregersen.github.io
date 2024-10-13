@@ -362,6 +362,18 @@ On this page you can find a list of my conference presentations and guest lectur
 </thead>
 <tbody>
 <tr>
+<td markdown="span">Habituals around the world</td>
+<td markdown="span">Habituals and Habitual Auxiliaries workshop, Université Paris 8</td>
+<td markdown="span">07/10/24</td>
+<td markdown="span">[slides](/assets/pdf/pres/Paris8_hab.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">A hierarchical approach to habitual expressions (with Hongmei Fang, Egbert Fortuin, Rene Genis, Riccardo Giomi, Kees Hengeveld, Lois Kemp, Paula Kyselica, Ezra La Roi, Hella Olbertz, Eugenie Stapert, Jacques van der Vliet, Hein van der Voort, Sjaak de Wit, Arok Wolvengrey, and Ewa Zakrzewska)</td>
+<td markdown="span">Habituals and Habitual Auxiliaries workshop, Université Paris 8</td>
+<td markdown="span">07/10/24</td>
+<td markdown="span"></td>
+</tr>
+<tr>
 <td markdown="span">A cross-linguistic survey of habitual markers (with Eva van Lier)</td>
 <td markdown="span">SLE 57, University of Helsinki</td>
 <td markdown="span">22/08/24</td>
