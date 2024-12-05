@@ -4,7 +4,7 @@ title: Danish in the 19th century
 description: Ongoing work on grammatical change and variation in 19th-century Danish
 img: assets/img/ancher.jpg
 importance: 4
-related_publications: gregersen2023passive, gregersen2021proksimativ, gregersen2020review-ds3
+related_publications: gregersen2024gide, gregersen2023passive, gregersen2021proksimativ, gregersen2020review-ds3
 ---
 
 In 2020–2021 I worked as a research assistant at the Department of Nordic Studies and Linguistics ([NorS](https://nors.ku.dk/)) at the University of Copenhagen. Having access to the linguistic resources of the department, such as the collection of the [Centre for Dialectology](https://nors.ku.dk/english/research/centres-and-groups/dialect/), inspired me to a number of investigations of earlier Danish, in particular variation and change in the 19th century. Since 2021 I have also been an external member of the research group _[Grammatik i 1800-tallet](https://dsn.dk/sprogets-udvikling/grammatik-i-1800-tallet/)_ [Grammar in the 19th century] at the Danish Language Council.

@@ -362,6 +362,12 @@ On this page you can find a list of my conference presentations and guest lectur
 </thead>
 <tbody>
 <tr>
+<td markdown="span">A cross-linguistic survey of habitual markers</td>
+<td markdown="span">ALT 15</td>
+<td markdown="span">05/12/24</td>
+<td markdown="span">[poster](/assets/pdf/pres/ALT_habituals.pdf)</td>
+</tr>
+<tr>
 <td markdown="span">Habituals around the world</td>
 <td markdown="span">Habituals and Habitual Auxiliaries workshop, Université Paris 8</td>
 <td markdown="span">07/10/24</td>
