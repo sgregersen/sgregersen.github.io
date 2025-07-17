@@ -50,7 +50,7 @@ The middle of the 19th century also marked the beginning of the end of Wangeroog
   </div>
 </div>
 
-In my project, I describe the grammatical structure of Wangerooge Frisian using the material collected by Ehrentraut, Siebs, and other people who took an interest in the language. A short project description can also be found on the website of the [Carlsberg Foundation](https://www.carlsbergfondet.dk/da/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF21_0502_Sune-Gregersen). A preliminary syntactic sketch of Wangerooge Frisian is available [here](https://doi.org/10.5281/zenodo.7775493). This is still very much work in progress, so feel free to send me an [email](mailto:s.gregersen@isfas.uni-kiel.de) if you have any comments or suggestions.
+In my project, I describe the grammatical structure of Wangerooge Frisian using the material collected by Ehrentraut, Siebs, and other people who took an interest in the language. A short project description can also be found on the website of the [Carlsberg Foundation](https://www.carlsbergfondet.dk/da/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF21_0502_Sune-Gregersen). A preliminary syntactic sketch of Wangerooge Frisian is available [here](https://doi.org/10.5281/zenodo.7775493). This is still very much work in progress, so feel free to send me an [email](mailto:sngrs@proton.me) if you have any comments or suggestions.
 
 
 

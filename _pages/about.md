@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-subtitle: Research fellow in Frisian linguistics, Kiel University
+subtitle: Postdoc, Uppsala University
 permalink: /
 description: #
 
@@ -14,13 +14,13 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-I am a descriptive and comparative linguist working as a research fellow at the [Department of Frisian Studies](https://www.isfas.uni-kiel.de/de/frisistik), Kiel University. My research currently focusses on [Wangerooge Frisian](/projects/wf), a now extinct minority language of Northern Germany. My goal is to publish a grammar of the language based on a substantial text corpus collected in the 19th and early 20th century.
+I am a descriptive and comparative linguist working as a postdoc at the [Department of Linguistics and Philology](https://www.uu.se/en/department/linguistics-and-philology), Uppsala University. My research currently focusses on [Baham](https://glottolog.org/resource/languoid/id/baha1258), a Papuan language spoken in eastern Indonesia.
 
-Before coming to Germany, I studied linguistics at the University of Copenhagen and wrote my dissertation on the development of the [English modals](/projects/modals) at the University of Amsterdam. Among other things, I have also worked on grammatical change in [19th-century Danish](/projects/19c_danish) and [habitual constructions](/projects/habituals) (like English *used to*) in the languages of the world.
+Among other things, I have also worked on the grammar of [Wangerooge Frisian](/projects/wf), an extinct minority language of northern Germany, and on [habitual constructions](/projects/habituals) (like English *used to*) in the languages of the world. My dissertation (University of Amsterdam, 2020) focussed on the historical development of the English [modal verbs](/projects/modals).
 
-On this website you can read about my research and find most of my [papers](/publications) and [presentations](/talks) for download. If you cannot find what you are looking for – or if you have any questions or comments – you are always welcome to send me an [email](mailto:s.gregersen@isfas.uni-kiel.de).
+On this website you can read about my research and find most of my [papers](/publications) and [presentations](/talks) for download. If you cannot find what you are looking for – or if you have any questions or comments – you are always welcome to send me an [email](mailto:sngrs@proton.me).
 
 <br>
