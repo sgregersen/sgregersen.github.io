@@ -23,7 +23,7 @@ In addition, with my colleague [Wim Caers](https://researchportal.be/en/research
 
 During my time as a PhD candidate I also published a number of book reviews and review articles on topics relating to the [history of English](https://doi.org/10.18148/hs/2020.v4i2.68), [modality](https://doi.org/10.1080/03740463.2020.1743582), and [historical linguistics](https://doi.org/10.1515/flih-2018-0012) more generally.
 
-My dissertation can be downloaded from the [University of Amsterdam](https://hdl.handle.net/11245.1/0a5dbde6-7a43-4201-8037-eff81274178e) or the Dutch graduate school [LOT](https://www.lotpublications.nl/early-english-modals-form-function-and-analogy). If you would like a paper copy, please do not hesitate to send me an [email](mailto:s.gregersen@isfas.uni-kiel.de).
+My dissertation can be downloaded from the [University of Amsterdam](https://hdl.handle.net/11245.1/0a5dbde6-7a43-4201-8037-eff81274178e) or the Dutch graduate school [LOT](https://www.lotpublications.nl/early-english-modals-form-function-and-analogy). Feel free to send me an [email](mailto:sngrs@proton.me) if you would like a paper copy.
 
 
 
