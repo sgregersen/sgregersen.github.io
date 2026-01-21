@@ -7,9 +7,86 @@ nav: true
 nav_order: 3
 ---
 
-On this page you can find a list of my conference presentations and guest lectures, organised according to the main topic of the talk: <a href="#frisian">Frisian</a>, (the history of) <a href="#english">English</a>, <a href="#danish">Danish</a> and its dialects, <a href="#germanic">comparative Germanic</a>, and <a href="#other">other topics</a>.
+On this page you can find a list of my conference presentations and guest lectures, organised according to the main topic of the talk: <a href="#typology">typology</a> , <a href="#frisian">Frisian</a>, <a href="#danish">Danish</a> and its dialects, <a href="#english">English</a>, <a href="#germanic">comparative Germanic linguistics</a>, and <a href="#other">other topics</a>.
 <br>
 <br>
+
+<h3 id="typology">Typology</h3>
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="30%" />
+<col width="10%" />
+<col width="10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Title</th>
+<th>Event</th>
+<th>Date</th>
+<th>Downloads</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">Investigative adverbial clauses (with Rieke Scheffner)</td>
+<td markdown="span">SLE 58, Université Bordeaux Montaigne</td>
+<td markdown="span">26/08/25</td>
+<td markdown="span">[slides](/assets/pdf/pres/SLE58_IAC.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Investigative Adverbialsätze (with Rieke Scheffner)</td>
+<td markdown="span">Vielfaltslinguistik 7, University of Münster</td>
+<td markdown="span">03/06/25</td>
+<td markdown="span">[slides](/assets/pdf/pres/VFL_IAC.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">A cross-linguistic survey of habitual markers</td>
+<td markdown="span">ALT 15</td>
+<td markdown="span">05/12/24</td>
+<td markdown="span">[poster](/assets/pdf/pres/ALT_habituals.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Habituals around the world</td>
+<td markdown="span">Habituals and Habitual Auxiliaries workshop, Université Paris 8</td>
+<td markdown="span">07/10/24</td>
+<td markdown="span">[slides](/assets/pdf/pres/Paris8_hab.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">A hierarchical approach to habitual expressions (with Hongmei Fang, Egbert Fortuin, Rene Genis, Riccardo Giomi, Kees Hengeveld, Lois Kemp, Paula Kyselica, Ezra La Roi, Hella Olbertz, Eugenie Stapert, Jacques van der Vliet, Hein van der Voort, Sjaak de Wit, Arok Wolvengrey, and Ewa Zakrzewska)</td>
+<td markdown="span">Habituals and Habitual Auxiliaries workshop, Université Paris 8</td>
+<td markdown="span">07/10/24</td>
+<td markdown="span"></td>
+</tr>
+<tr>
+<td markdown="span">A cross-linguistic survey of habitual markers (with Eva van Lier)</td>
+<td markdown="span">SLE 57, University of Helsinki</td>
+<td markdown="span">22/08/24</td>
+<td markdown="span">[slides](/assets/pdf/pres/SLE57_hab.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">A hierarchical approach to habitual expressions (with Hongmei Fang, Egbert Fortuin, Rene Genis, Riccardo Giomi, Kees Hengeveld, Lois Kemp, Paula Kyselica, Ezra La Roi, Hella Olbertz, Eugenie Stapert, Jacques van der Vliet, Hein van der Voort, Sjaak de Wit, Arok Wolvengrey, and Ewa Zakrzewska)</td>
+<td markdown="span">FDG2024, Universidade Federal de São Carlos</td>
+<td markdown="span">05/07/24</td>
+<td markdown="span">[slides](https://keeshengeveld.nl/wp-content/uploads/2024/08/A-hierarchical-approach-to-habitual-expressions-20240807.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Habitual serial verbs (with Eva van Lier)</td>
+<td markdown="span">Serial Predicates Across Modalities research group, University of Amsterdam</td>
+<td markdown="span">14/12/23</td>
+<td markdown="span">[slides](/assets/pdf/pres/habitual_SVCs.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Forms and functions of habitual markers: A cross-linguistic survey</td>
+<td markdown="span">ACLC Seminar, University of Amsterdam</td>
+<td markdown="span">11/11/22</td>
+<td markdown="span">[slides](/assets/pdf/pres/ACLC_habituals.pdf)</td>
+</tr>
+</tbody>
+</table>
+<br>
+
 
 <h3 id="frisian">Frisian</h3>
 
@@ -94,6 +171,95 @@ On this page you can find a list of my conference presentations and guest lectur
 <td markdown="span">_Semantic Shifts_, Fréjus</td>
 <td markdown="span">19/09/22</td>
 <td markdown="span">[slides](/assets/pdf/pres/SemanticShifts_non-house.pdf)</td>
+</tr>
+</tbody>
+</table>
+<br>
+
+
+<h3 id="danish">Danish</h3>
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="30%" />
+<col width="10%" />
+<col width="10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Title</th>
+<th>Event</th>
+<th>Date</th>
+<th>Downloads</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">From possibility to preference: The history of Danish _gide_ ‘be able to, feel like’</td>
+<td markdown="span">_Expressions of modality in Germanic_, HU Berlin</td>
+<td markdown="span">15/09/22</td>
+<td markdown="span">[slides](/assets/pdf/pres/HU_gide.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Om verbet _gide_ – fra middeldansk til 1800-tallet [On the verb _gide_ ‘feel like’ – from Middle Danish to the 19th century]</td>
+<td markdown="span">_Grammatik i 1800-tallet_, Danish Language Council</td>
+<td markdown="span">15/06/22</td>
+<td markdown="span">[slides](/assets/pdf/pres/DSN_gide.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">From possibility to preference: The history of Danish _gide_ ‘be able to, feel like’</td>
+<td markdown="span">_Postmodality and the life cycles of modal expressions_, University of Caen</td>
+<td markdown="span">02/06/22</td>
+<td markdown="span">[slides](/assets/pdf/pres/Caen_gide.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">_S_-passiv i 1800-tallet [The _s_-passive in 19th-century Danish]</td>
+<td markdown="span">_Grammatik i 1800-tallet_, Danish Language Council</td>
+<td markdown="span">10/01/22</td>
+<td markdown="span">[slides](/assets/pdf/pres/DSN_passiv.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Habitual aspect in Danish</td>
+<td markdown="span">Habituals research group, University of Amsterdam</td>
+<td markdown="span">17/12/21</td>
+<td markdown="span">[handout](/assets/pdf/pres/HAB_Danish.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Lexical restrictions on the Danish passive</td>
+<td markdown="span">Lexical Restrictions research group, University of Amsterdam</td>
+<td markdown="span">22/10/21</td>
+<td markdown="span">[slides](/assets/pdf/pres/LexRestr_passive.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Proksimativt _færdig_ (’lige ved’) i ømål og østdansk [Proximative _færdig_ (’about to’) in Insular and Eastern Danish]</td>
+<td markdown="span">Workshop on Insular and Eastern Danish dialects, University of Copenhagen</td>
+<td markdown="span">18/06/21</td>
+<td markdown="span">[handout](/assets/pdf/pres/KU_proksimativ.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">How ‘can’ becomes ‘have to’: Middle Danish _mughe_ and its West Germanic parallels</td>
+<td markdown="span">SØF 4, University of Cologne</td>
+<td markdown="span">12/06/19</td>
+<td markdown="span">[handout](/assets/pdf/pres/SOF4_mughe.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">How ‘can’ becomes ‘have to’: Middle Danish _mughe_ and its West Germanic parallels</td>
+<td markdown="span">_Oudgermanistendag_, University of Amsterdam</td>
+<td markdown="span">07/06/19</td>
+<td markdown="span">[handout](/assets/pdf/pres/Oudgerm_mughe.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">»Det er jo let nok at bare gå og snakke«: Delte infinitiver i dansk(e) talesprog [On split infinitives in vernacular Danish]</td>
+<td markdown="span">Sprogvidenskabelig Studenterkonference, University of Copenhagen</td>
+<td markdown="span">14/11/14</td>
+<td markdown="span">[slides](/assets/pdf/pres/SSK_infinitiv.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Refusing to subordinate? The syntax of Danish causal clauses</td>
+<td markdown="span">Young Linguists’ International Conference, Stockholm University</td>
+<td markdown="span">28/06/14</td>
+<td markdown="span">[poster](/assets/pdf/pres/Stockholm_fordi.pdf)</td>
 </tr>
 </tbody>
 </table>
@@ -190,8 +356,6 @@ On this page you can find a list of my conference presentations and guest lectur
 <br>
 
 
-
-
 <h3 id="germanic">Comparative Germanic linguistics</h3>
 
 <table>
@@ -251,98 +415,6 @@ On this page you can find a list of my conference presentations and guest lectur
 <br>
 
 
-
-
-<h3 id="danish">Danish</h3>
-
-<table>
-<colgroup>
-<col width="50%" />
-<col width="30%" />
-<col width="10%" />
-<col width="10%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Title</th>
-<th>Event</th>
-<th>Date</th>
-<th>Downloads</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">From possibility to preference: The history of Danish _gide_ ‘be able to, feel like’</td>
-<td markdown="span">_Expressions of modality in Germanic_, HU Berlin</td>
-<td markdown="span">15/09/22</td>
-<td markdown="span">[slides](/assets/pdf/pres/HU_gide.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">Om verbet _gide_ – fra middeldansk til 1800-tallet [On the verb _gide_ ‘feel like’ – from Middle Danish to the 19th century]</td>
-<td markdown="span">_Grammatik i 1800-tallet_, Danish Language Council</td>
-<td markdown="span">15/06/22</td>
-<td markdown="span">[slides](/assets/pdf/pres/DSN_gide.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">From possibility to preference: The history of Danish _gide_ ‘be able to, feel like’</td>
-<td markdown="span">_Postmodality and the life cycles of modal expressions_, University of Caen</td>
-<td markdown="span">02/06/22</td>
-<td markdown="span">[slides](/assets/pdf/pres/Caen_gide.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">_S_-passiv i 1800-tallet [The _s_-passive in 19th-century Danish]</td>
-<td markdown="span">_Grammatik i 1800-tallet_, Danish Language Council</td>
-<td markdown="span">10/01/22</td>
-<td markdown="span">[slides](/assets/pdf/pres/DSN_passiv.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">Habitual aspect in Danish</td>
-<td markdown="span">Habituals research group, University of Amsterdam</td>
-<td markdown="span">17/12/21</td>
-<td markdown="span">[handout](/assets/pdf/pres/HAB_Danish.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">Lexical restrictions on the Danish passive</td>
-<td markdown="span">Lexical Restrictions research group, University of Amsterdam</td>
-<td markdown="span">22/10/21</td>
-<td markdown="span">[slides](/assets/pdf/pres/LexRestr_passive.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">Proksimativt _færdig_ (’lige ved’) i ømål og østdansk [Proximative _færdig_ (’about to’) in Insular and Eastern Danish]</td>
-<td markdown="span">Workshop on Insular and Eastern Danish dialects, University of Copenhagen</td>
-<td markdown="span">18/06/21</td>
-<td markdown="span">[handout](/assets/pdf/pres/KU_proksimativ.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">How ‘can’ becomes ‘have to’: Middle Danish _mughe_ and its West Germanic parallels</td>
-<td markdown="span">SØF 4, University of Cologne</td>
-<td markdown="span">12/06/19</td>
-<td markdown="span">[handout](/assets/pdf/pres/SOF4_mughe.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">How ‘can’ becomes ‘have to’: Middle Danish _mughe_ and its West Germanic parallels</td>
-<td markdown="span">_Oudgermanistendag_, University of Amsterdam</td>
-<td markdown="span">07/06/19</td>
-<td markdown="span">[handout](/assets/pdf/pres/Oudgerm_mughe.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">»Det er jo let nok at bare gå og snakke«: Delte infinitiver i dansk(e) talesprog [On split infinitives in vernacular Danish]</td>
-<td markdown="span">Sprogvidenskabelig Studenterkonference, University of Copenhagen</td>
-<td markdown="span">14/11/14</td>
-<td markdown="span">[slides](/assets/pdf/pres/SSK_infinitiv.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">Refusing to subordinate? The syntax of Danish causal clauses</td>
-<td markdown="span">Young Linguists’ International Conference, Stockholm University</td>
-<td markdown="span">28/06/14</td>
-<td markdown="span">[poster](/assets/pdf/pres/Stockholm_fordi.pdf)</td>
-</tr>
-</tbody>
-</table>
-<br>
-
-
-
 <h3 id="other">Other topics</h3>
 
 <table>
@@ -361,48 +433,6 @@ On this page you can find a list of my conference presentations and guest lectur
 </tr>
 </thead>
 <tbody>
-<tr>
-<td markdown="span">A cross-linguistic survey of habitual markers</td>
-<td markdown="span">ALT 15</td>
-<td markdown="span">05/12/24</td>
-<td markdown="span">[poster](/assets/pdf/pres/ALT_habituals.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">Habituals around the world</td>
-<td markdown="span">Habituals and Habitual Auxiliaries workshop, Université Paris 8</td>
-<td markdown="span">07/10/24</td>
-<td markdown="span">[slides](/assets/pdf/pres/Paris8_hab.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">A hierarchical approach to habitual expressions (with Hongmei Fang, Egbert Fortuin, Rene Genis, Riccardo Giomi, Kees Hengeveld, Lois Kemp, Paula Kyselica, Ezra La Roi, Hella Olbertz, Eugenie Stapert, Jacques van der Vliet, Hein van der Voort, Sjaak de Wit, Arok Wolvengrey, and Ewa Zakrzewska)</td>
-<td markdown="span">Habituals and Habitual Auxiliaries workshop, Université Paris 8</td>
-<td markdown="span">07/10/24</td>
-<td markdown="span"></td>
-</tr>
-<tr>
-<td markdown="span">A cross-linguistic survey of habitual markers (with Eva van Lier)</td>
-<td markdown="span">SLE 57, University of Helsinki</td>
-<td markdown="span">22/08/24</td>
-<td markdown="span">[slides](/assets/pdf/pres/SLE57_hab.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">A hierarchical approach to habitual expressions (with Hongmei Fang, Egbert Fortuin, Rene Genis, Riccardo Giomi, Kees Hengeveld, Lois Kemp, Paula Kyselica, Ezra La Roi, Hella Olbertz, Eugenie Stapert, Jacques van der Vliet, Hein van der Voort, Sjaak de Wit, Arok Wolvengrey, and Ewa Zakrzewska)</td>
-<td markdown="span">FDG2024, Universidade Federal de São Carlos</td>
-<td markdown="span">05/07/24</td>
-<td markdown="span">[slides](https://keeshengeveld.nl/wp-content/uploads/2024/08/A-hierarchical-approach-to-habitual-expressions-20240807.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">Habitual serial verbs (with Eva van Lier)</td>
-<td markdown="span">Serial Predicates Across Modalities research group, University of Amsterdam</td>
-<td markdown="span">14/12/23</td>
-<td markdown="span">[slides](/assets/pdf/pres/habitual_SVCs.pdf)</td>
-</tr>
-<tr>
-<td markdown="span">Forms and functions of habitual markers: A cross-linguistic survey</td>
-<td markdown="span">ACLC Seminar, University of Amsterdam</td>
-<td markdown="span">11/11/22</td>
-<td markdown="span">[slides](/assets/pdf/pres/ACLC_habituals.pdf)</td>
-</tr>
 <tr>
 <td markdown="span">A short introduction to Old East Norse</td>
 <td markdown="span">6th Naxos Summer School on Diachronic Linguistics</td>
