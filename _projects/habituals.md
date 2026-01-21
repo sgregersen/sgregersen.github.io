@@ -4,7 +4,7 @@ title: Habituals in the world’s languages
 description: Collaborative project on the forms and functions of habitual markers
 img: assets/img/modrekili_ms.jpeg
 importance: 2
-related_publications: gregersen&al2021habituals,gregersen2020bantu,gregersen&hengeveld2026intr,fang&al2026concl
+related_publications: gregersen&al2021habituals,gregersen2020bantu,gregersen&hengeveld2026intr,fang&al2026concl,gregersen&hengeveld2026
 ---
 
 Habituals are aspectual markers expressing that a situation usually occurs, such as English _used to_, Spanish _soler_, or the suffix _-va_ in Czech and Slovak. Despite an abundant literature on aspect in various languages of the world, habituals are a somewhat neglected phenomenon in linguistic research.

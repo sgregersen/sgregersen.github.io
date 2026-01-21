@@ -14,6 +14,11 @@ Here you can download my <a href="#articles">journal articles</a>, <a href="#cha
 
 <div class="publications">
 
+<h3 id="vols">Edited volume</h3>
+{% bibliography -f vols %}
+
+
+
 <h3 id="articles">Journal articles</h3>
 {% bibliography -f articles %}
 
