@@ -6,7 +6,7 @@ description: This page gives an overview of my past and present research project
 nav: true
 nav_order: 1
 display_categories: #[work, fun]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->

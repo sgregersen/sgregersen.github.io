@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-On this page you can find a list of my conference presentations and guest lectures, organised according to the main topic of the talk: <a href="#typology">typology</a> , <a href="#frisian">Frisian</a>, <a href="#danish">Danish</a> and its dialects, <a href="#english">English</a>, <a href="#germanic">comparative Germanic linguistics</a>, and <a href="#other">other topics</a>.
+On this page you can find a list of my conference presentations and guest lectures, organised according to the main topic of the talk: <a href="#typology">typology</a>, <a href="#mbaham">Mbaham</a>, <a href="#frisian">Frisian</a>, <a href="#danish">Danish</a> and its dialects, <a href="#english">English</a>, <a href="#germanic">comparative Germanic linguistics</a>, and <a href="#other">other topics</a>.
 <br>
 <br>
 
@@ -82,6 +82,35 @@ On this page you can find a list of my conference presentations and guest lectur
 <td markdown="span">ACLC Seminar, University of Amsterdam</td>
 <td markdown="span">11/11/22</td>
 <td markdown="span">[slides](/assets/pdf/pres/ACLC_habituals.pdf)</td>
+</tr>
+</tbody>
+</table>
+<br>
+
+
+<h3 id="mbaham">Mbaham</h3>
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="30%" />
+<col width="10%" />
+<col width="10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Title</th>
+<th>Event</th>
+<th>Date</th>
+<th>Downloads</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">Komitativkonstruktioner i mbaham [Comitative constructions in Mbaham]</td>
+<td markdown="span">Workshop on comitative constructions, Copenhagen</td>
+<td markdown="span">30/01/26</td>
+<td markdown="span">[slides](/assets/pdf/pres/med_mbaham.pdf)</td>
 </tr>
 </tbody>
 </table>
@@ -195,6 +224,24 @@ On this page you can find a list of my conference presentations and guest lectur
 </tr>
 </thead>
 <tbody>
+<tr>
+<td markdown="span">Sætningsemner med og uden _med_ (with Marie Herget Christensen)</td>
+<td markdown="span">Workshop on comitative constructions, Copenhagen</td>
+<td markdown="span">30/01/26</td>
+<td markdown="span">[slides](/assets/pdf/pres/med_partikler.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Et lille præsentation: Diminutiver i fjoldemål (with Marie Herget Christensen)</td>
+<td markdown="span">Language and Society research group, University of Copenhagen</td>
+<td markdown="span">25/08/25</td>
+<td markdown="span">[slides](/assets/pdf/pres/NorS_dim.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Hit med posteren! (with Marie Herget Christensen)</td>
+<td markdown="span">NorS department seminar, University of Copenhagen</td>
+<td markdown="span">21/08/25</td>
+<td markdown="span">[poster](/assets/pdf/pres/NorS_hit.pdf)</td>
+</tr>
 <tr>
 <td markdown="span">From possibility to preference: The history of Danish _gide_ ‘be able to, feel like’</td>
 <td markdown="span">_Expressions of modality in Germanic_, HU Berlin</td>
