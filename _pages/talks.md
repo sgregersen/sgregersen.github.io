@@ -107,6 +107,12 @@ On this page you can find a list of my conference presentations and guest lectur
 </thead>
 <tbody>
 <tr>
+<td markdown="span">An introduction to Mbaham</td>
+<td markdown="span">WoGEL, Uppsala University</td>
+<td markdown="span">27/02/26</td>
+<td markdown="span">[slides](/assets/pdf/pres/WoGEL_Mbaham.pdf)</td>
+</tr>
+<tr>
 <td markdown="span">Komitativkonstruktioner i mbaham [Comitative constructions in Mbaham]</td>
 <td markdown="span">Workshop on comitative constructions, Copenhagen</td>
 <td markdown="span">30/01/26</td>
