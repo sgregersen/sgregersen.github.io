@@ -7,8 +7,7 @@ importance: 1
 related_publications: gregersen2023sketch, gregersen2023v2, gregersen2024evid, gregersen2024usw, gregersen2024def, gregersen2024quidder
 ---
 
-
-Wangerooge Frisian is a now extinct Frisian language once spoken on [Wangerooge](https://www.openstreetmap.org/#map=12/53.7910/7.8990), a small island in the German Wadden Sea. This language was extensively documented before it went extinct in the first half of the 20th century, but has so far received little attention in the linguistic literature. My current project is a grammatical description of the Wangerooge Frisian language as it was preserved in documentation mainly from the 19th century. The project is supported by the [Carlsberg Foundation](https://www.carlsbergfondet.dk/en) and hosted by the [Department of Frisian Studies](https://www.isfas.uni-kiel.de/de/frisistik) at Kiel University.
+Wangerooge Frisian is a now extinct Frisian language once spoken on [Wangerooge](https://www.openstreetmap.org/#map=12/53.7910/7.8990), a small island in the German Wadden Sea. This language was extensively documented before it went extinct in the first half of the 20th century, but has only received very little attention in the linguistic literature. From 2022 to 2024, I worked on the grammatical description of the Wangerooge Frisian language as it was preserved in documentation mainly from the 19th century. The project was supported by the [Carlsberg Foundation](https://www.carlsbergfondet.dk/en) and hosted by the [Department of Frisian Studies](https://www.isfas.uni-kiel.de/de/frisistik) at Kiel University.
 
 <div class="container">
   <div class="row">
@@ -20,7 +19,6 @@ Wangerooge Frisian is a now extinct Frisian language once spoken on [Wangerooge]
     <div class="col"></div>
   </div>
 </div>
-
 
 The language of Wangerooge was a remnant of the medieval [Old Frisian](https://medieval.ox.ac.uk/2022/11/03/lecture-old-frisian-a-gem-of-old-germanic-studies-by-dr-anne-popkema/) language, which had gradually lost ground to Low German since the Middle Ages. A [chronicle](https://www.digitale-sammlungen.de/en/details/bsb11054802) from 1671 mentions that the inhabitants of Wangerooge had their own language ‘which an outsider cannot understand at all’ (“eine besondere [Sprach] / die ein fremder / gar nicht verstehen kan”). The first linguistic documentation of this language consists of a word list and some grammatical notes from around 1800.
 
@@ -50,9 +48,7 @@ The middle of the 19th century also marked the beginning of the end of Wangeroog
   </div>
 </div>
 
-In my project, I describe the grammatical structure of Wangerooge Frisian using the material collected by Ehrentraut, Siebs, and other people who took an interest in the language. A short project description can also be found on the website of the [Carlsberg Foundation](https://www.carlsbergfondet.dk/da/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF21_0502_Sune-Gregersen). A preliminary syntactic sketch of Wangerooge Frisian is available [here](https://doi.org/10.5281/zenodo.7775493). This is still very much work in progress, so feel free to send me an [email](mailto:sngrs@proton.me) if you have any comments or suggestions.
-
-
+In my project, I describe the grammatical structure of Wangerooge Frisian using the material collected by Ehrentraut, Siebs, and other people who took an interest in the language. A short project description can also be found on the website of the [Carlsberg Foundation](https://www.carlsbergfondet.dk/da/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF21_0502_Sune-Gregersen). A preliminary syntactic sketch of Wangerooge Frisian is available [here](https://doi.org/10.5281/zenodo.7775493). I am currently working on a more comprehensive grammatical description of the language, including phonology, morphology, and an overview of the corpus.
 
 <br>
 <h2>Presentations</h2>
