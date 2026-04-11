@@ -231,6 +231,12 @@ On this page you can find a list of my conference presentations and guest lectur
 </thead>
 <tbody>
 <tr>
+<td markdown="span">Tre spørgsmål om _med_-led (with Marie Herget Christensen)</td>
+<td markdown="span">2nd workshop on comitative constructions, Copenhagen</td>
+<td markdown="span">10/04/26</td>
+<td markdown="span">[slides](/assets/pdf/pres/med_spsm.pdf)</td>
+</tr>
+<tr>
 <td markdown="span">Sætningsemner med og uden _med_ (with Marie Herget Christensen)</td>
 <td markdown="span">Workshop on comitative constructions, Copenhagen</td>
 <td markdown="span">30/01/26</td>
