@@ -142,6 +142,12 @@ On this page you can find a list of my conference presentations and guest lectur
 </thead>
 <tbody>
 <tr>
+<td markdown="span">Hvad kan man med mit? Komitativitet i wangeroogefrisisk [Comitativity in Wangerooge Frisian]</td>
+<td markdown="span">3rd workshop on comitative constructions, Copenhagen</td>
+<td markdown="span">12/06/26</td>
+<td markdown="span">[slides](/assets/pdf/pres/med_WF.pdf)</td>
+</tr>
+<tr>
 <td markdown="span">An evidential perfect in Wangerooge Frisian (Germanic, Northern Germany)</td>
 <td markdown="span">SLE 57, University of Helsinki</td>
 <td markdown="span">22/08/24</td>
@@ -230,6 +236,18 @@ On this page you can find a list of my conference presentations and guest lectur
 </tr>
 </thead>
 <tbody>
+<tr>
+<td markdown="span">Mere om _med_ i regulative sætningsemner (with Marie Herget Christensen)</td>
+<td markdown="span">3rd workshop on comitative constructions, Copenhagen</td>
+<td markdown="span">12/06/26</td>
+<td markdown="span">[slides](/assets/pdf/pres/med_mere.pdf)</td>
+</tr>
+<tr>
+<td markdown="span">Sætningsemner og regulative partikler (with Marie Herget Christensen)</td>
+<td markdown="span">_Grammatik over det Danske Sprog_ – 15 år efter, Copenhagen</td>
+<td markdown="span">19/05/26</td>
+<td markdown="span">[slides](/assets/pdf/pres/GDS_partikler.pdf)</td>
+</tr>
 <tr>
 <td markdown="span">Tre spørgsmål om _med_-led (with Marie Herget Christensen)</td>
 <td markdown="span">2nd workshop on comitative constructions, Copenhagen</td>
