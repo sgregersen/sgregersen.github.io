@@ -4,7 +4,7 @@ title: A grammar of Wangerooge Frisian
 description: Postdoc project on an extinct Frisian language of northern Germany
 img: assets/img/project_wf.jpeg
 importance: 1
-related_publications: gregersen2023sketch, gregersen2023v2, gregersen2024evid, gregersen2024usw, gregersen2024def, gregersen2024quidder
+related_publications: gregersen2023sketch, gregersen2023v2, gregersen2024evid, gregersen2024usw, gregersen2024def, gregersen2024quidder, gregersen2024yuu
 ---
 
 Wangerooge Frisian is a now extinct Frisian language once spoken on [Wangerooge](https://www.openstreetmap.org/#map=12/53.7910/7.8990), a small island in the German Wadden Sea. This language was extensively documented before it went extinct in the first half of the 20th century, but has only received very little attention in the linguistic literature. From 2022 to 2024, I worked on the grammatical description of the Wangerooge Frisian language as it was preserved in documentation mainly from the 19th century. The project was supported by the [Carlsberg Foundation](https://www.carlsbergfondet.dk/en) and hosted by the [Department of Frisian Studies](https://www.isfas.uni-kiel.de/de/frisistik) at Kiel University.
