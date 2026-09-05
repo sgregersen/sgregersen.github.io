@@ -69,6 +69,12 @@ In my project, I describe the grammatical structure of Wangerooge Frisian using 
 </thead>
 <tbody>
 <tr>
+<td markdown="span">Hvad kan man med mit? Komitativitet i wangeroogefrisisk [Comitativity in Wangerooge Frisian]</td>
+<td markdown="span">3rd workshop on comitative constructions, Copenhagen</td>
+<td markdown="span">12/06/26</td>
+<td markdown="span">[slides](/assets/pdf/pres/med_WF.pdf)</td>
+</tr>
+<tr>
 <td markdown="span">An evidential perfect in Wangerooge Frisian (Germanic, Northern Germany)</td>
 <td markdown="span">SLE 57, University of Helsinki</td>
 <td markdown="span">22/08/24</td>
